@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 829 252" width="829" height="252" role="img" aria-label="Output of npm run demo">
+<rect width="829" height="252" rx="10" fill="#0d1117"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/><circle cx="42" cy="20" r="6" fill="#ffbd2e"/><circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c9d1d9" xml:space="preserve">
+<text x="24" y="52"><tspan fill="#8b949e">$</tspan> npm run demo</text>
+<text x="24" y="96"><tspan fill="#7ee787">app</tspan>      committed   ord-1001  total=42.5</text>
+<text x="24" y="118"><tspan fill="#ff7b72">app</tspan>      rolled back ord-1002  (card declined)</text>
+<text x="24" y="140"><tspan fill="#7ee787">app</tspan>      committed   ord-1003  total=18.9</text>
+<text x="24" y="162"><tspan fill="#79c0ff">relay</tspan>    published 2 event(s) to demo.orders</text>
+<text x="24" y="184"><tspan fill="#d2a8ff">consumer</tspan> 1790847172202-0  ord-1001  {&quot;type&quot;:&quot;order.placed&quot;,&quot;total&quot;:42.5,&quot;orderId&quot;:&quot;ord-1001&quot;}</text>
+<text x="24" y="206"><tspan fill="#d2a8ff">consumer</tspan> 1790847172203-0  ord-1003  {&quot;type&quot;:&quot;order.placed&quot;,&quot;total&quot;:18.9,&quot;orderId&quot;:&quot;ord-1003&quot;}</text>
+</g>
+</svg>
