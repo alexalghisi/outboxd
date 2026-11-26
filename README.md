@@ -2,6 +2,8 @@
 
 Transactional outbox relay for PostgreSQL and Redis Streams.
 
+**Download:** [latest release](https://github.com/alexalghisi/outboxd/releases/latest)
+
 Writing a row and publishing an event are two different systems, and one of
 them will fail at the wrong moment. `outboxd` removes the second write from the
 request path: the event is inserted into an `outbox` table inside the same
